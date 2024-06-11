@@ -1,0 +1,14 @@
+/home/mpy/Desktop/CsharpProject/ChallengeLargeNum/bin/Debug/net8.0/ChallengeLargeNum
+/home/mpy/Desktop/CsharpProject/ChallengeLargeNum/bin/Debug/net8.0/ChallengeLargeNum.deps.json
+/home/mpy/Desktop/CsharpProject/ChallengeLargeNum/bin/Debug/net8.0/ChallengeLargeNum.runtimeconfig.json
+/home/mpy/Desktop/CsharpProject/ChallengeLargeNum/bin/Debug/net8.0/ChallengeLargeNum.dll
+/home/mpy/Desktop/CsharpProject/ChallengeLargeNum/bin/Debug/net8.0/ChallengeLargeNum.pdb
+/home/mpy/Desktop/CsharpProject/ChallengeLargeNum/obj/Debug/net8.0/ChallengeLargeNum.GeneratedMSBuildEditorConfig.editorconfig
+/home/mpy/Desktop/CsharpProject/ChallengeLargeNum/obj/Debug/net8.0/ChallengeLargeNum.AssemblyInfoInputs.cache
+/home/mpy/Desktop/CsharpProject/ChallengeLargeNum/obj/Debug/net8.0/ChallengeLargeNum.AssemblyInfo.cs
+/home/mpy/Desktop/CsharpProject/ChallengeLargeNum/obj/Debug/net8.0/ChallengeLargeNum.csproj.CoreCompileInputs.cache
+/home/mpy/Desktop/CsharpProject/ChallengeLargeNum/obj/Debug/net8.0/ChallengeLargeNum.dll
+/home/mpy/Desktop/CsharpProject/ChallengeLargeNum/obj/Debug/net8.0/refint/ChallengeLargeNum.dll
+/home/mpy/Desktop/CsharpProject/ChallengeLargeNum/obj/Debug/net8.0/ChallengeLargeNum.pdb
+/home/mpy/Desktop/CsharpProject/ChallengeLargeNum/obj/Debug/net8.0/ChallengeLargeNum.genruntimeconfig.cache
+/home/mpy/Desktop/CsharpProject/ChallengeLargeNum/obj/Debug/net8.0/ref/ChallengeLargeNum.dll

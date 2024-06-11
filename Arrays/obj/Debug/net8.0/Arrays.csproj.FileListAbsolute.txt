@@ -1,0 +1,14 @@
+/home/mpy/Desktop/CsharpProject/Arrays/bin/Debug/net8.0/Arrays
+/home/mpy/Desktop/CsharpProject/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/home/mpy/Desktop/CsharpProject/Arrays/bin/Debug/net8.0/Arrays.runtimeconfig.json
+/home/mpy/Desktop/CsharpProject/Arrays/bin/Debug/net8.0/Arrays.dll
+/home/mpy/Desktop/CsharpProject/Arrays/bin/Debug/net8.0/Arrays.pdb
+/home/mpy/Desktop/CsharpProject/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/mpy/Desktop/CsharpProject/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/home/mpy/Desktop/CsharpProject/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/home/mpy/Desktop/CsharpProject/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/home/mpy/Desktop/CsharpProject/Arrays/obj/Debug/net8.0/Arrays.dll
+/home/mpy/Desktop/CsharpProject/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/home/mpy/Desktop/CsharpProject/Arrays/obj/Debug/net8.0/Arrays.pdb
+/home/mpy/Desktop/CsharpProject/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
+/home/mpy/Desktop/CsharpProject/Arrays/obj/Debug/net8.0/ref/Arrays.dll

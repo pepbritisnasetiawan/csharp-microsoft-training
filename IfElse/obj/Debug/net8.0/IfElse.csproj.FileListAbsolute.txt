@@ -1,0 +1,14 @@
+/home/mpy/Desktop/CsharpProject/IfElse/bin/Debug/net8.0/IfElse
+/home/mpy/Desktop/CsharpProject/IfElse/bin/Debug/net8.0/IfElse.deps.json
+/home/mpy/Desktop/CsharpProject/IfElse/bin/Debug/net8.0/IfElse.runtimeconfig.json
+/home/mpy/Desktop/CsharpProject/IfElse/bin/Debug/net8.0/IfElse.dll
+/home/mpy/Desktop/CsharpProject/IfElse/bin/Debug/net8.0/IfElse.pdb
+/home/mpy/Desktop/CsharpProject/IfElse/obj/Debug/net8.0/IfElse.GeneratedMSBuildEditorConfig.editorconfig
+/home/mpy/Desktop/CsharpProject/IfElse/obj/Debug/net8.0/IfElse.AssemblyInfoInputs.cache
+/home/mpy/Desktop/CsharpProject/IfElse/obj/Debug/net8.0/IfElse.AssemblyInfo.cs
+/home/mpy/Desktop/CsharpProject/IfElse/obj/Debug/net8.0/IfElse.csproj.CoreCompileInputs.cache
+/home/mpy/Desktop/CsharpProject/IfElse/obj/Debug/net8.0/IfElse.dll
+/home/mpy/Desktop/CsharpProject/IfElse/obj/Debug/net8.0/refint/IfElse.dll
+/home/mpy/Desktop/CsharpProject/IfElse/obj/Debug/net8.0/IfElse.pdb
+/home/mpy/Desktop/CsharpProject/IfElse/obj/Debug/net8.0/IfElse.genruntimeconfig.cache
+/home/mpy/Desktop/CsharpProject/IfElse/obj/Debug/net8.0/ref/IfElse.dll
