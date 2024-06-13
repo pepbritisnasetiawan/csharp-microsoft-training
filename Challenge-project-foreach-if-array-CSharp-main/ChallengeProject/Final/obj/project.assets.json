@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mpy/CsharpProject/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj",
-      "projectName": "Starter",
-      "projectPath": "/home/mpy/CsharpProject/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj",
+      "projectUniqueName": "/home/mpy/CsharpProject/Update-Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/Final.csproj",
+      "projectName": "Final",
+      "projectPath": "/home/mpy/CsharpProject/Update-Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/Final.csproj",
       "packagesPath": "/home/mpy/.nuget/packages/",
-      "outputPath": "/home/mpy/CsharpProject/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/",
+      "outputPath": "/home/mpy/CsharpProject/Update-Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mpy/.nuget/NuGet/NuGet.Config"

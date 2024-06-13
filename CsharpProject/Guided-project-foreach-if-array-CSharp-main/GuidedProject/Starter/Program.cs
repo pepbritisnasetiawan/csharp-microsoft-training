@@ -37,21 +37,21 @@ foreach (string name in studentNames)
         studentScores = loganScores;
     }
     else if (currentStudent == "Becky")
-    {
-        studentScores = beckyScores;
-    }
+        {
+            studentScores = beckyScores;
+            }
     else if (currentStudent == "Chris")
-    {
-        studentScores = chrisScores;
-    }
+        {
+            studentScores = chrisScores;
+            }
     else if (currentStudent == "Eric")
-    {
-        studentScores = ericScores;
-    }
+        
+        {studentScores = ericScores;
+        }
     else if (currentStudent == "Gregor")
-    {
+        {
         studentScores = gregorScores;
-    }
+        }
     else
         continue;
     
