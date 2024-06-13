@@ -1,0 +1,15 @@
+/home/mpy/CsharpProject/ChallengeDoWhile/bin/Debug/net8.0/ChallengeDoWhile
+/home/mpy/CsharpProject/ChallengeDoWhile/bin/Debug/net8.0/ChallengeDoWhile.deps.json
+/home/mpy/CsharpProject/ChallengeDoWhile/bin/Debug/net8.0/ChallengeDoWhile.runtimeconfig.json
+/home/mpy/CsharpProject/ChallengeDoWhile/bin/Debug/net8.0/ChallengeDoWhile.dll
+/home/mpy/CsharpProject/ChallengeDoWhile/bin/Debug/net8.0/ChallengeDoWhile.pdb
+/home/mpy/CsharpProject/ChallengeDoWhile/obj/Debug/net8.0/ChallengeDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+/home/mpy/CsharpProject/ChallengeDoWhile/obj/Debug/net8.0/ChallengeDoWhile.AssemblyInfoInputs.cache
+/home/mpy/CsharpProject/ChallengeDoWhile/obj/Debug/net8.0/ChallengeDoWhile.AssemblyInfo.cs
+/home/mpy/CsharpProject/ChallengeDoWhile/obj/Debug/net8.0/ChallengeDoWhile.csproj.CoreCompileInputs.cache
+/home/mpy/CsharpProject/ChallengeDoWhile/obj/Debug/net8.0/ChallengeDoWhile.sourcelink.json
+/home/mpy/CsharpProject/ChallengeDoWhile/obj/Debug/net8.0/ChallengeDoWhile.dll
+/home/mpy/CsharpProject/ChallengeDoWhile/obj/Debug/net8.0/refint/ChallengeDoWhile.dll
+/home/mpy/CsharpProject/ChallengeDoWhile/obj/Debug/net8.0/ChallengeDoWhile.pdb
+/home/mpy/CsharpProject/ChallengeDoWhile/obj/Debug/net8.0/ChallengeDoWhile.genruntimeconfig.cache
+/home/mpy/CsharpProject/ChallengeDoWhile/obj/Debug/net8.0/ref/ChallengeDoWhile.dll

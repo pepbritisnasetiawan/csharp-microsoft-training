@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChallengeDoWhile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bcc3d8bb027f9c700c4b48459985da7dbcadf3a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13548ee168d7bef6162b1057da39876b3af4ee90")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChallengeDoWhile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChallengeDoWhile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
