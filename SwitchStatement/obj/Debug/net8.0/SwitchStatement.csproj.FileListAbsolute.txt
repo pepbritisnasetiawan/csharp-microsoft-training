@@ -1,0 +1,15 @@
+/home/mpy/CsharpProject/SwitchStatement/bin/Debug/net8.0/SwitchStatement
+/home/mpy/CsharpProject/SwitchStatement/bin/Debug/net8.0/SwitchStatement.deps.json
+/home/mpy/CsharpProject/SwitchStatement/bin/Debug/net8.0/SwitchStatement.runtimeconfig.json
+/home/mpy/CsharpProject/SwitchStatement/bin/Debug/net8.0/SwitchStatement.dll
+/home/mpy/CsharpProject/SwitchStatement/bin/Debug/net8.0/SwitchStatement.pdb
+/home/mpy/CsharpProject/SwitchStatement/obj/Debug/net8.0/SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+/home/mpy/CsharpProject/SwitchStatement/obj/Debug/net8.0/SwitchStatement.AssemblyInfoInputs.cache
+/home/mpy/CsharpProject/SwitchStatement/obj/Debug/net8.0/SwitchStatement.AssemblyInfo.cs
+/home/mpy/CsharpProject/SwitchStatement/obj/Debug/net8.0/SwitchStatement.csproj.CoreCompileInputs.cache
+/home/mpy/CsharpProject/SwitchStatement/obj/Debug/net8.0/SwitchStatement.sourcelink.json
+/home/mpy/CsharpProject/SwitchStatement/obj/Debug/net8.0/SwitchStatement.dll
+/home/mpy/CsharpProject/SwitchStatement/obj/Debug/net8.0/refint/SwitchStatement.dll
+/home/mpy/CsharpProject/SwitchStatement/obj/Debug/net8.0/SwitchStatement.pdb
+/home/mpy/CsharpProject/SwitchStatement/obj/Debug/net8.0/SwitchStatement.genruntimeconfig.cache
+/home/mpy/CsharpProject/SwitchStatement/obj/Debug/net8.0/ref/SwitchStatement.dll
