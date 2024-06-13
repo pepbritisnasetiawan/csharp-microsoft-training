@@ -1,0 +1,15 @@
+/home/mpy/CsharpProject/ChallengeProcessContentStringArray/bin/Debug/net8.0/ChallengeProcessContentStringArray
+/home/mpy/CsharpProject/ChallengeProcessContentStringArray/bin/Debug/net8.0/ChallengeProcessContentStringArray.deps.json
+/home/mpy/CsharpProject/ChallengeProcessContentStringArray/bin/Debug/net8.0/ChallengeProcessContentStringArray.runtimeconfig.json
+/home/mpy/CsharpProject/ChallengeProcessContentStringArray/bin/Debug/net8.0/ChallengeProcessContentStringArray.dll
+/home/mpy/CsharpProject/ChallengeProcessContentStringArray/bin/Debug/net8.0/ChallengeProcessContentStringArray.pdb
+/home/mpy/CsharpProject/ChallengeProcessContentStringArray/obj/Debug/net8.0/ChallengeProcessContentStringArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/mpy/CsharpProject/ChallengeProcessContentStringArray/obj/Debug/net8.0/ChallengeProcessContentStringArray.AssemblyInfoInputs.cache
+/home/mpy/CsharpProject/ChallengeProcessContentStringArray/obj/Debug/net8.0/ChallengeProcessContentStringArray.AssemblyInfo.cs
+/home/mpy/CsharpProject/ChallengeProcessContentStringArray/obj/Debug/net8.0/ChallengeProcessContentStringArray.csproj.CoreCompileInputs.cache
+/home/mpy/CsharpProject/ChallengeProcessContentStringArray/obj/Debug/net8.0/ChallengeProcessContentStringArray.sourcelink.json
+/home/mpy/CsharpProject/ChallengeProcessContentStringArray/obj/Debug/net8.0/ChallengeProcessContentStringArray.dll
+/home/mpy/CsharpProject/ChallengeProcessContentStringArray/obj/Debug/net8.0/refint/ChallengeProcessContentStringArray.dll
+/home/mpy/CsharpProject/ChallengeProcessContentStringArray/obj/Debug/net8.0/ChallengeProcessContentStringArray.pdb
+/home/mpy/CsharpProject/ChallengeProcessContentStringArray/obj/Debug/net8.0/ChallengeProcessContentStringArray.genruntimeconfig.cache
+/home/mpy/CsharpProject/ChallengeProcessContentStringArray/obj/Debug/net8.0/ref/ChallengeProcessContentStringArray.dll
