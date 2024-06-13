@@ -1,0 +1,15 @@
+/home/mpy/CsharpProject/Boolean/bin/Debug/net8.0/Boolean
+/home/mpy/CsharpProject/Boolean/bin/Debug/net8.0/Boolean.deps.json
+/home/mpy/CsharpProject/Boolean/bin/Debug/net8.0/Boolean.runtimeconfig.json
+/home/mpy/CsharpProject/Boolean/bin/Debug/net8.0/Boolean.dll
+/home/mpy/CsharpProject/Boolean/bin/Debug/net8.0/Boolean.pdb
+/home/mpy/CsharpProject/Boolean/obj/Debug/net8.0/Boolean.GeneratedMSBuildEditorConfig.editorconfig
+/home/mpy/CsharpProject/Boolean/obj/Debug/net8.0/Boolean.AssemblyInfoInputs.cache
+/home/mpy/CsharpProject/Boolean/obj/Debug/net8.0/Boolean.AssemblyInfo.cs
+/home/mpy/CsharpProject/Boolean/obj/Debug/net8.0/Boolean.csproj.CoreCompileInputs.cache
+/home/mpy/CsharpProject/Boolean/obj/Debug/net8.0/Boolean.sourcelink.json
+/home/mpy/CsharpProject/Boolean/obj/Debug/net8.0/Boolean.dll
+/home/mpy/CsharpProject/Boolean/obj/Debug/net8.0/refint/Boolean.dll
+/home/mpy/CsharpProject/Boolean/obj/Debug/net8.0/Boolean.pdb
+/home/mpy/CsharpProject/Boolean/obj/Debug/net8.0/Boolean.genruntimeconfig.cache
+/home/mpy/CsharpProject/Boolean/obj/Debug/net8.0/ref/Boolean.dll
