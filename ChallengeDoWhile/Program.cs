@@ -31,7 +31,7 @@ do
         valueEntered = readResult;
     }
 
-    validNumber = int.TryParse(valueEntered, out numValue);
+    validNumber = int.TryParse(valueEntered, out numValue); // convert a string value to an integer. 
 
     if (validNumber == true)
     {
