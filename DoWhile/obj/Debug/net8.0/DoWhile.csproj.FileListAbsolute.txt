@@ -1,0 +1,15 @@
+/home/mpy/CsharpProject/DoWhile/bin/Debug/net8.0/DoWhile
+/home/mpy/CsharpProject/DoWhile/bin/Debug/net8.0/DoWhile.deps.json
+/home/mpy/CsharpProject/DoWhile/bin/Debug/net8.0/DoWhile.runtimeconfig.json
+/home/mpy/CsharpProject/DoWhile/bin/Debug/net8.0/DoWhile.dll
+/home/mpy/CsharpProject/DoWhile/bin/Debug/net8.0/DoWhile.pdb
+/home/mpy/CsharpProject/DoWhile/obj/Debug/net8.0/DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+/home/mpy/CsharpProject/DoWhile/obj/Debug/net8.0/DoWhile.AssemblyInfoInputs.cache
+/home/mpy/CsharpProject/DoWhile/obj/Debug/net8.0/DoWhile.AssemblyInfo.cs
+/home/mpy/CsharpProject/DoWhile/obj/Debug/net8.0/DoWhile.csproj.CoreCompileInputs.cache
+/home/mpy/CsharpProject/DoWhile/obj/Debug/net8.0/DoWhile.sourcelink.json
+/home/mpy/CsharpProject/DoWhile/obj/Debug/net8.0/DoWhile.dll
+/home/mpy/CsharpProject/DoWhile/obj/Debug/net8.0/refint/DoWhile.dll
+/home/mpy/CsharpProject/DoWhile/obj/Debug/net8.0/DoWhile.pdb
+/home/mpy/CsharpProject/DoWhile/obj/Debug/net8.0/DoWhile.genruntimeconfig.cache
+/home/mpy/CsharpProject/DoWhile/obj/Debug/net8.0/ref/DoWhile.dll
