@@ -1,0 +1,15 @@
+/home/mpy/CsharpProject/ConditionalBranchingLooping/bin/Debug/net8.0/ConditionalBranchingLooping
+/home/mpy/CsharpProject/ConditionalBranchingLooping/bin/Debug/net8.0/ConditionalBranchingLooping.deps.json
+/home/mpy/CsharpProject/ConditionalBranchingLooping/bin/Debug/net8.0/ConditionalBranchingLooping.runtimeconfig.json
+/home/mpy/CsharpProject/ConditionalBranchingLooping/bin/Debug/net8.0/ConditionalBranchingLooping.dll
+/home/mpy/CsharpProject/ConditionalBranchingLooping/bin/Debug/net8.0/ConditionalBranchingLooping.pdb
+/home/mpy/CsharpProject/ConditionalBranchingLooping/obj/Debug/net8.0/ConditionalBranchingLooping.GeneratedMSBuildEditorConfig.editorconfig
+/home/mpy/CsharpProject/ConditionalBranchingLooping/obj/Debug/net8.0/ConditionalBranchingLooping.AssemblyInfoInputs.cache
+/home/mpy/CsharpProject/ConditionalBranchingLooping/obj/Debug/net8.0/ConditionalBranchingLooping.AssemblyInfo.cs
+/home/mpy/CsharpProject/ConditionalBranchingLooping/obj/Debug/net8.0/ConditionalBranchingLooping.csproj.CoreCompileInputs.cache
+/home/mpy/CsharpProject/ConditionalBranchingLooping/obj/Debug/net8.0/ConditionalBranchingLooping.sourcelink.json
+/home/mpy/CsharpProject/ConditionalBranchingLooping/obj/Debug/net8.0/ConditionalBranchingLooping.dll
+/home/mpy/CsharpProject/ConditionalBranchingLooping/obj/Debug/net8.0/refint/ConditionalBranchingLooping.dll
+/home/mpy/CsharpProject/ConditionalBranchingLooping/obj/Debug/net8.0/ConditionalBranchingLooping.pdb
+/home/mpy/CsharpProject/ConditionalBranchingLooping/obj/Debug/net8.0/ConditionalBranchingLooping.genruntimeconfig.cache
+/home/mpy/CsharpProject/ConditionalBranchingLooping/obj/Debug/net8.0/ref/ConditionalBranchingLooping.dll
