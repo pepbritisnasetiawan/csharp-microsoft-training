@@ -1,0 +1,15 @@
+/home/mpy/CsharpProject/project-branching-looping-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final
+/home/mpy/CsharpProject/project-branching-looping-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.deps.json
+/home/mpy/CsharpProject/project-branching-looping-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.runtimeconfig.json
+/home/mpy/CsharpProject/project-branching-looping-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.dll
+/home/mpy/CsharpProject/project-branching-looping-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.pdb
+/home/mpy/CsharpProject/project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/home/mpy/CsharpProject/project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.AssemblyInfoInputs.cache
+/home/mpy/CsharpProject/project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.AssemblyInfo.cs
+/home/mpy/CsharpProject/project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.csproj.CoreCompileInputs.cache
+/home/mpy/CsharpProject/project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.sourcelink.json
+/home/mpy/CsharpProject/project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.dll
+/home/mpy/CsharpProject/project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/refint/Final.dll
+/home/mpy/CsharpProject/project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.pdb
+/home/mpy/CsharpProject/project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.genruntimeconfig.cache
+/home/mpy/CsharpProject/project-branching-looping-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/ref/Final.dll
