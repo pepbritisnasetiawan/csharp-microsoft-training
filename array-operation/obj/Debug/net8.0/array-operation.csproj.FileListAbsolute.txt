@@ -1,0 +1,15 @@
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation\bin\Debug\net8.0\array-operation.exe
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation\bin\Debug\net8.0\array-operation.deps.json
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation\bin\Debug\net8.0\array-operation.runtimeconfig.json
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation\bin\Debug\net8.0\array-operation.dll
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation\bin\Debug\net8.0\array-operation.pdb
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation\obj\Debug\net8.0\array-operation.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation\obj\Debug\net8.0\array-operation.AssemblyInfoInputs.cache
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation\obj\Debug\net8.0\array-operation.AssemblyInfo.cs
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation\obj\Debug\net8.0\array-operation.csproj.CoreCompileInputs.cache
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation\obj\Debug\net8.0\array-operation.sourcelink.json
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation\obj\Debug\net8.0\array-operation.dll
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation\obj\Debug\net8.0\refint\array-operation.dll
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation\obj\Debug\net8.0\array-operation.pdb
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation\obj\Debug\net8.0\array-operation.genruntimeconfig.cache
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation\obj\Debug\net8.0\ref\array-operation.dll
