@@ -1,0 +1,15 @@
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation-split-join\bin\Debug\net8.0\array-operation-split-join.exe
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation-split-join\bin\Debug\net8.0\array-operation-split-join.deps.json
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation-split-join\bin\Debug\net8.0\array-operation-split-join.runtimeconfig.json
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation-split-join\bin\Debug\net8.0\array-operation-split-join.dll
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation-split-join\bin\Debug\net8.0\array-operation-split-join.pdb
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation-split-join\obj\Debug\net8.0\array-operation-split-join.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation-split-join\obj\Debug\net8.0\array-operation-split-join.AssemblyInfoInputs.cache
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation-split-join\obj\Debug\net8.0\array-operation-split-join.AssemblyInfo.cs
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation-split-join\obj\Debug\net8.0\array-operation-split-join.csproj.CoreCompileInputs.cache
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation-split-join\obj\Debug\net8.0\array-operation-split-join.sourcelink.json
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation-split-join\obj\Debug\net8.0\array-operation-split-join.dll
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation-split-join\obj\Debug\net8.0\refint\array-operation-split-join.dll
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation-split-join\obj\Debug\net8.0\array-operation-split-join.pdb
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation-split-join\obj\Debug\net8.0\array-operation-split-join.genruntimeconfig.cache
+D:\MicrosoftLearn\csharp-microsoft-training\array-operation-split-join\obj\Debug\net8.0\ref\array-operation-split-join.dll
