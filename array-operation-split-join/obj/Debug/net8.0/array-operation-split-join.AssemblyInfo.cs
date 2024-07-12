@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("array-operation-split-join")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ba985b2533313cb51d043b8c7f7e1fed9d2cac4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8da6c0b5814e75102c7c427ae1b7e9f0d8b51de1")]
 [assembly: System.Reflection.AssemblyProductAttribute("array-operation-split-join")]
 [assembly: System.Reflection.AssemblyTitleAttribute("array-operation-split-join")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
