@@ -1,0 +1,15 @@
+D:\MicrosoftLearn\csharp-microsoft-training\format-alphanumeric-data-for-presentation\bin\Debug\net8.0\format-alphanumeric-data-for-presentation.exe
+D:\MicrosoftLearn\csharp-microsoft-training\format-alphanumeric-data-for-presentation\bin\Debug\net8.0\format-alphanumeric-data-for-presentation.deps.json
+D:\MicrosoftLearn\csharp-microsoft-training\format-alphanumeric-data-for-presentation\bin\Debug\net8.0\format-alphanumeric-data-for-presentation.runtimeconfig.json
+D:\MicrosoftLearn\csharp-microsoft-training\format-alphanumeric-data-for-presentation\bin\Debug\net8.0\format-alphanumeric-data-for-presentation.dll
+D:\MicrosoftLearn\csharp-microsoft-training\format-alphanumeric-data-for-presentation\bin\Debug\net8.0\format-alphanumeric-data-for-presentation.pdb
+D:\MicrosoftLearn\csharp-microsoft-training\format-alphanumeric-data-for-presentation\obj\Debug\net8.0\format-alphanumeric-data-for-presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicrosoftLearn\csharp-microsoft-training\format-alphanumeric-data-for-presentation\obj\Debug\net8.0\format-alphanumeric-data-for-presentation.AssemblyInfoInputs.cache
+D:\MicrosoftLearn\csharp-microsoft-training\format-alphanumeric-data-for-presentation\obj\Debug\net8.0\format-alphanumeric-data-for-presentation.AssemblyInfo.cs
+D:\MicrosoftLearn\csharp-microsoft-training\format-alphanumeric-data-for-presentation\obj\Debug\net8.0\format-alphanumeric-data-for-presentation.csproj.CoreCompileInputs.cache
+D:\MicrosoftLearn\csharp-microsoft-training\format-alphanumeric-data-for-presentation\obj\Debug\net8.0\format-alphanumeric-data-for-presentation.sourcelink.json
+D:\MicrosoftLearn\csharp-microsoft-training\format-alphanumeric-data-for-presentation\obj\Debug\net8.0\format-alphanumeric-data-for-presentation.dll
+D:\MicrosoftLearn\csharp-microsoft-training\format-alphanumeric-data-for-presentation\obj\Debug\net8.0\refint\format-alphanumeric-data-for-presentation.dll
+D:\MicrosoftLearn\csharp-microsoft-training\format-alphanumeric-data-for-presentation\obj\Debug\net8.0\format-alphanumeric-data-for-presentation.pdb
+D:\MicrosoftLearn\csharp-microsoft-training\format-alphanumeric-data-for-presentation\obj\Debug\net8.0\format-alphanumeric-data-for-presentation.genruntimeconfig.cache
+D:\MicrosoftLearn\csharp-microsoft-training\format-alphanumeric-data-for-presentation\obj\Debug\net8.0\ref\format-alphanumeric-data-for-presentation.dll
